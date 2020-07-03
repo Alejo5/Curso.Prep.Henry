@@ -1,0 +1,12 @@
+Homework 1
+
+Variavles: seria un elementoque puede hacer referencia o mostrar el valor que se le ha asignado.
+
+Strings: este seria donde nosotros podemos o tenemos la posibilidad de usar entre commillas varias palabras que se puedan juntar o encadenar entre si dentro de una funcion.
+
+Funciones (argumentos, `return`):dentro de una funcion, lo que realiza return es en su cadena cuando va leyendo automaticamente por mas que dicha funcion continue esta nos va a devolver hasta alli, osea hasta donde tengamos declarado return.
+
+Declaraciones `if`: la palabra clave if estaria comprendida dentro del control de flujo y comparacion, cuando tenemos una funcion y queremos ver si es true. if seria si (se cumple esta condicion) nos devuelve true o false
+
+
+Valores booleanos (`true`, `false`); el booleano en si es cuando de a cuerdo a nuestra variable establecida mas un codigo de bloque siempre nos va a devolver true o false (si se cumple que es verdadero o es falso).
